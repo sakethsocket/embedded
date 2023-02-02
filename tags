@@ -1,0 +1,758 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AddAfterNode	DS/D-Linked-Lists/DoubleLinkedList.c	/^void AddAfterNode(int num, int val)$/;"	f
+AddAfterNode	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^void AddAfterNode(int num, int val)$/;"	f
+AddAfterNode	ds/DoubleLinkedList_H.c	/^void AddAfterNode(int num, int val)$/;"	f
+AddAtBeg	DS/D-Linked-Lists/DoubleLinkedList.c	/^void AddAtBeg(int num)$/;"	f
+AddAtBeg	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^void AddAtBeg(int num)$/;"	f
+AddAtBeg	ds/DoubleLinkedList_H.c	/^void AddAtBeg(int num)$/;"	f
+AddAtLast	DS/D-Linked-Lists/DoubleLinkedList.c	/^void AddAtLast(int num)$/;"	f
+AddAtLast	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^void AddAtLast(int num)$/;"	f
+AddAtLast	ds/DoubleLinkedList_H.c	/^void AddAtLast(int num)$/;"	f
+AddBeforeNode	DS/D-Linked-Lists/DoubleLinkedList.c	/^void AddBeforeNode(int num, int val)$/;"	f
+AddBeforeNode	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^void AddBeforeNode(int num, int val)$/;"	f
+AddBeforeNode	ds/DoubleLinkedList_H.c	/^void AddBeforeNode(int num, int val)$/;"	f
+BubbleSortData	DS/Linked-Lists/singleLinkedList.c	/^void BubbleSortData()$/;"	f
+BubbleSortLinks	DS/Linked-Lists/singleLinkedList.c	/^void BubbleSortLinks()$/;"	f
+BubbleSortLinks	DS/Linked-Lists/stack_singleLinked.c	/^void BubbleSortLinks()$/;"	f
+BubbleSort_Queue	DS/Queue_Dlinked.c	/^void BubbleSort_Queue()$/;"	f
+CountNodes	DS/D-Linked-Lists/DoubleLinkedList.c	/^int  CountNodes()$/;"	f
+CountNodes	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^int  CountNodes()$/;"	f
+CountNodes	DS/D-Linked-Lists/Queue_Dlinked.c	/^int  CountNodes()$/;"	f
+CountNodes	DS/Queue_Dlinked.c	/^int  CountNodes()$/;"	f
+CountNodes	ds/DoubleLinkedList_H.c	/^int  CountNodes()$/;"	f
+CreateList	DS/D-Linked-Lists/DoubleLinkedList.c	/^void CreateList(int *arr, int n)$/;"	f
+CreateList	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^void CreateList(int *arr, int n)$/;"	f
+CreateList	ds/DoubleLinkedList_H.c	/^void CreateList(int *arr, int n)$/;"	f
+Create_Queue	DS/Linked-Lists/Queue_Linked/Create_Queue.c	/^void Create_Queue(int *iptr, int n)$/;"	f
+Create_Queue	DS/Queue_Dlinked.c	/^void Create_Queue(int *arr, int n)$/;"	f
+DelAtBeg	DS/D-Linked-Lists/DoubleLinkedList.c	/^void DelAtBeg()$/;"	f
+DelAtBeg	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^void DelAtBeg()$/;"	f
+DelAtBeg	ds/DoubleLinkedList_H.c	/^void DelAtBeg()$/;"	f
+DelAtLast	DS/D-Linked-Lists/DoubleLinkedList.c	/^void DelAtLast()$/;"	f
+DelAtLast	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^void DelAtLast()$/;"	f
+DelAtLast	ds/DoubleLinkedList_H.c	/^void DelAtLast()$/;"	f
+DeleteDup_Queue	DS/Linked-Lists/Queue_Linked/DeleteDup_Queue.c	/^void DeleteDup_Queue()$/;"	f
+DeleteDuplicate_DL	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^void DeleteDuplicate_DL()$/;"	f
+DeleteDuplicate_DL	DS/D-Linked-Lists/Queue_Dlinked.c	/^void DeleteDuplicate_DL()$/;"	f
+DeleteDuplicate_DL	ds/DoubleLinkedList_H.c	/^void DeleteDuplicate_DL()$/;"	f
+DeleteDuplicate_DL_Queue	DS/Queue_Dlinked.c	/^void DeleteDuplicate_DL_Queue()$/;"	f
+DeleteParticular	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^void DeleteParticular(int num)$/;"	f
+DeleteParticular_Queue	DS/D-Linked-Lists/Queue_Dlinked.c	/^void DeleteParticular_Queue(int num)$/;"	f
+DeleteParticular_Queue	DS/Linked-Lists/Queue_Linked/DeleteParticular_Queue.c	/^void DeleteParticular_Queue(int num)$/;"	f
+DeleteParticular_Queue	DS/Queue_Dlinked.c	/^void DeleteParticular_Queue(int num)$/;"	f
+Delete_Dlist	DS/D-Linked-Lists/DoubleLinkedList.c	/^void Delete_Dlist()$/;"	f
+Delete_Dlist	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^void Delete_Dlist()$/;"	f
+Delete_Dlist	ds/DoubleLinkedList_H.c	/^void Delete_Dlist()$/;"	f
+Delete_Queue	DS/D-Linked-Lists/Queue_Dlinked.c	/^void Delete_Queue()$/;"	f
+Delete_Queue	DS/Queue_Dlinked.c	/^void Delete_Queue()$/;"	f
+Delete_allQueue	DS/D-Linked-Lists/Queue_Dlinked.c	/^void Delete_allQueue()$/;"	f
+Delete_allQueue	DS/Queue_Dlinked.c	/^void Delete_allQueue()$/;"	f
+Delete_full_Queue	DS/Linked-Lists/Queue_Linked/Delete_full_Queue.c	/^void Delete_full_Queue()$/;"	f
+Display_DoubleLinked	DS/D-Linked-Lists/DoubleLinkedList.c	/^void Display_DoubleLinked()$/;"	f
+Display_DoubleLinked	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^void Display_DoubleLinked()$/;"	f
+Display_DoubleLinked	ds/DoubleLinkedList_H.c	/^void Display_DoubleLinked()$/;"	f
+Display_Queue	DS/D-Linked-Lists/Queue_Dlinked.c	/^void Display_Queue()$/;"	f
+Display_Queue	DS/Queue_Dlinked.c	/^void Display_Queue()$/;"	f
+Display_Queue_Debug	DS/Queue_Dlinked.c	/^void Display_Queue_Debug()$/;"	f
+Insert_Queue	DS/D-Linked-Lists/Queue_Dlinked.c	/^void Insert_Queue(int num)$/;"	f
+Insert_Queue	DS/Queue_Dlinked.c	/^void Insert_Queue(int num)$/;"	f
+KEY	systemprogramming/messagequeue/client.c	13;"	d	file:
+KEY	systemprogramming/messagequeue/messageqclient.c	13;"	d	file:
+KEY	systemprogramming/messagequeue/messageqserver.c	5;"	d	file:
+KEY	systemprogramming/messagequeue/server.c	14;"	d	file:
+KEY	systemprogramming/semaphores/client.c	7;"	d	file:
+KEY	systemprogramming/semaphores/client1.c	7;"	d	file:
+KEY	systemprogramming/semaphores/client2.c	7;"	d	file:
+KEY	systemprogramming/semaphores/server.c	6;"	d	file:
+KEY	systemprogramming/sharedmem/client.c	5;"	d	file:
+KEY	systemprogramming/sharedmem/server.c	4;"	d	file:
+MSG_TYPE	systemprogramming/messagequeue/client.c	12;"	d	file:
+MSG_TYPE	systemprogramming/messagequeue/messageqclient.c	12;"	d	file:
+MSG_TYPE	systemprogramming/messagequeue/messageqserver.c	4;"	d	file:
+MSG_TYPE	systemprogramming/messagequeue/server.c	13;"	d	file:
+Nodecount	DS/Linked-Lists/SingleLinkedLib/NodeCount.c	/^int Nodecount()$/;"	f
+Nodecount	DS/Linked-Lists/singleLinkedList.c	/^int Nodecount()$/;"	f
+Nodecount	DS/Linked-Lists/stack_singleLinked.c	/^int Nodecount()$/;"	f
+Nodecount	ds/singleLinkedList.c	/^int Nodecount()$/;"	f
+Nodecount	ds/stack_singleLinked.c	/^int Nodecount()$/;"	f
+Nodecount_Queue	DS/Linked-Lists/Queue_Linked/NodeCount_Queue.c	/^int Nodecount_Queue()$/;"	f
+Nodesearch	DS/Linked-Lists/SingleLinkedLib/NodeSearch.c	/^int Nodesearch(int num)$/;"	f
+Nodesearch	DS/Linked-Lists/singleLinkedList.c	/^int Nodesearch(int num)$/;"	f
+Nodesearch	DS/Linked-Lists/stack_singleLinked.c	/^int Nodesearch(int num)$/;"	f
+Nodesearch	ds/singleLinkedList.c	/^int Nodesearch(int num)$/;"	f
+Nodesearch	ds/stack_singleLinked.c	/^int Nodesearch(int num)$/;"	f
+Nodesearch_Queue	DS/Linked-Lists/Queue_Linked/NodeSearch.c	/^int Nodesearch_Queue(int num)$/;"	f
+PRINT	DS/Linked-Lists/test.c	1;"	d	file:
+Reverse_DL	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^void Reverse_DL()$/;"	f
+Reverse_DL	DS/D-Linked-Lists/Queue_Dlinked.c	/^void Reverse_DL()$/;"	f
+Reverse_DL	ds/DoubleLinkedList_H.c	/^void Reverse_DL()$/;"	f
+Reverse_DL_Queue	DS/Queue_Dlinked.c	/^void Reverse_DL_Queue()$/;"	f
+Reverse_Queue	DS/Linked-Lists/Queue_Linked/Reverse_Queue.c	/^void Reverse_Queue(int *iptr, int num)$/;"	f
+SIZE	DS/queue.c	7;"	d	file:
+Search	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^int Search(int num)$/;"	f
+Search	DS/D-Linked-Lists/Queue_Dlinked.c	/^int Search(int num)$/;"	f
+Search	DS/Queue_Dlinked.c	/^int Search(int num)$/;"	f
+SelectionSort	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^void SelectionSort()$/;"	f
+SelectionSort	DS/Linked-Lists/singleLinkedList.c	/^void SelectionSort()$/;"	f
+SelectionSort	DS/Queue_Dlinked.c	/^void SelectionSort()$/;"	f
+SelectionSort	ds/DoubleLinkedList_H.c	/^void SelectionSort()$/;"	f
+SelectionSortLinks	DS/Linked-Lists/singleLinkedList.c	/^void SelectionSortLinks()$/;"	f
+SelectionSortLinks	DS/Linked-Lists/stack_singleLinked.c	/^void SelectionSortLinks()$/;"	f
+SwapNodes_Data	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^void SwapNodes_Data(int s1, int s2)$/;"	f
+SwapNodes_Links	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^void SwapNodes_Links(int s1, int s2)$/;"	f
+SwapNodes_Queue	DS/Queue_Dlinked.c	/^void SwapNodes_Queue(int s1, int s2)$/;"	f
+Swap_Links	DS/Linked-Lists/SingleLinkedLib/SwapLinks.c	/^void Swap_Links(int num1, int num2)$/;"	f
+Swap_Links	DS/Linked-Lists/singleLinkedList.c	/^void Swap_Links(int num1, int num2)$/;"	f
+Swap_Links	DS/Linked-Lists/stack_singleLinked.c	/^void Swap_Links(int num1, int num2)$/;"	f
+Swap_Links	ds/singleLinkedList.c	/^void Swap_Links(int num1, int num2)$/;"	f
+Swap_Links	ds/stack_singleLinked.c	/^void Swap_Links(int num1, int num2)$/;"	f
+Swap_data	DS/Linked-Lists/SingleLinkedLib/SwapData.c	/^void Swap_data(int num1, int num2)$/;"	f
+Swap_data	DS/Linked-Lists/singleLinkedList.c	/^void Swap_data(int num1, int num2)$/;"	f
+Swap_data	DS/Linked-Lists/stack_singleLinked.c	/^void Swap_data(int num1, int num2)$/;"	f
+Swap_data	ds/singleLinkedList.c	/^void Swap_data(int num1, int num2)$/;"	f
+Swap_data	ds/stack_singleLinked.c	/^void Swap_data(int num1, int num2)$/;"	f
+X	macro.c	2;"	d	file:
+Y	macro.c	3;"	d	file:
+a	proj2/client.c	/^	struct address a;$/;"	m	struct:registration	typeref:struct:registration::address	file:
+a	proj2/server.c	/^	struct address a;$/;"	m	struct:profile	typeref:struct:profile::address	file:
+a	structures/task.c	/^int a=0,b=0;$/;"	v
+ad	proj2/client.c	/^}ad;$/;"	v	typeref:struct:address
+add	call.c	/^int add(int a,int b)$/;"	f
+add	ds/task.c	/^void add(int num)$/;"	f
+add	matrix/add.c	/^void add(int (*a)[2],int r1,int c1,int (*b)[2],int r2,int c2)$/;"	f
+addAfterNode	DS/Linked-Lists/SingleLinkedLib/addAfterNode.c	/^void addAfterNode(int num, int var)$/;"	f
+addAfterNode	DS/Linked-Lists/singleLinkedList.c	/^void addAfterNode(int num, int var)$/;"	f
+addAfterNode	DS/Linked-Lists/stack_singleLinked.c	/^void addAfterNode(int num, int var)$/;"	f
+addAfterNode	ds/singleLinkedList.c	/^void addAfterNode(int num, int var)$/;"	f
+addAfterNode	ds/stack_singleLinked.c	/^void addAfterNode(int num, int var)$/;"	f
+addAtlast	DS/Linked-Lists/SingleLinkedLib/addAtlast.c	/^void addAtlast(int num)$/;"	f
+addAtlast	DS/Linked-Lists/singleLinkedList.c	/^void addAtlast(int num)$/;"	f
+addAtlast	ds/singleLinkedList.c	/^void addAtlast(int num)$/;"	f
+addBeforeNode	DS/Linked-Lists/SingleLinkedLib/addBeforeNode.c	/^void addBeforeNode(int num, int val)$/;"	f
+addBeforeNode	DS/Linked-Lists/singleLinkedList.c	/^void addBeforeNode(int num, int val)$/;"	f
+addBeforeNode	DS/Linked-Lists/stack_singleLinked.c	/^void addBeforeNode(int num, int val)$/;"	f
+addBeforeNode	ds/singleLinkedList.c	/^void addBeforeNode(int num, int val)$/;"	f
+addBeforeNode	ds/stack_singleLinked.c	/^void addBeforeNode(int num, int val)$/;"	f
+add_after_node	ds/circular.c	/^void add_after_node(int data,int node)$/;"	f
+add_at_beg	ds/circular.c	/^void add_at_beg(int data)$/;"	f
+add_at_beg	ds/circular_doublelinkedlist.c	/^void add_at_beg(int x)$/;"	f
+add_at_last	ds/circular.c	/^void add_at_last(int data)$/;"	f
+add_at_last	ds/circular_doublelinkedlist.c	/^void add_at_last(int x)$/;"	f
+add_before_node	ds/circular.c	/^void add_before_node(int data,int node)$/;"	f
+adda	ds/addbeg.c	/^void adda(int num,int val)$/;"	f
+addafternode	ds/task.c	/^void addafternode(int num,int val)$/;"	f
+addatBeg	DS/Linked-Lists/SingleLinkedLib/addatBeg.c	/^void addatBeg(int num)$/;"	f
+addatBeg	DS/Linked-Lists/singleLinkedList.c	/^void addatBeg(int num)$/;"	f
+addatBeg	DS/Linked-Lists/stack_singleLinked.c	/^void addatBeg(int num)$/;"	f
+addatBeg	ds/singleLinkedList.c	/^void addatBeg(int num)$/;"	f
+addatBeg	ds/stack_singleLinked.c	/^void addatBeg(int num)$/;"	f
+addb	ds/addbeg.c	/^void addb(int num,int val)$/;"	f
+addbeg	ds/addbeg.c	/^void addbeg(int num)$/;"	f
+addbeg	ds/circularsingle.c	/^void addbeg(int num)$/;"	f
+addlast	ds/addbeg.c	/^void addlast(int num)$/;"	f
+addlast	ds/circularsingle.c	/^void addlast(int num)$/;"	f
+addlast	ds/task.c	/^void addlast(int num)$/;"	f
+address	proj2/client.c	/^struct address$/;"	s	file:
+address	proj2/server.c	/^struct address$/;"	s	file:
+area	proj2/client.c	/^	char area[50];$/;"	m	struct:address	file:
+area	proj2/server.c	/^	char area[50];$/;"	m	struct:address	file:
+ascending	DS/queue.c	/^void ascending(int *ptr)$/;"	f
+ascending	commandlinearguments/commandintegerop.c	/^void ascending(int *s,int n)$/;"	f
+ascending	switchpointer.c	/^void ascending(int *ptr,int n)$/;"	f
+ascending	voidp.c	/^void ascending(void *ptr,int n)$/;"	f
+b	structures/task.c	/^int a=0,b=0;$/;"	v
+bal	proj2/client.c	/^	signed int bal;$/;"	m	struct:registration	file:
+bal	proj2/server.c	/^	signed int bal;$/;"	m	struct:profile	file:
+biggestvalue	switchpointer.c	/^int biggestvalue(int *ptr,int n)$/;"	f
+biggestvalue	voidp.c	/^int biggestvalue(void *ptr,int n)$/;"	f
+binary	binary.c	/^int binary(int n)$/;"	f
+binary	binary.s	/^binary:$/;"	l
+binary	commandlinearguments/commandintegerop.c	/^void binary(int p)$/;"	f
+binary	function.c	/^int binary(int n)$/;"	f
+binary	function.s	/^binary:$/;"	l
+binary	recurssive/decbin.c	/^long int binary(int n)$/;"	f
+binary	switchpointer.c	/^void binary(int *ptr,int n)$/;"	f
+binary	voidp.c	/^void binary(void *ptr,int n)$/;"	f
+book	structures/task.c	/^struct book$/;"	s	file:
+book_ops	structures/task.c	/^struct book_ops$/;"	s	file:
+buf	systemprogramming/messagequeue/client.c	/^    char buf[100];$/;"	m	struct:msg	file:
+buf	systemprogramming/messagequeue/messageqclient.c	/^	char buf[100];$/;"	m	struct:msg	file:
+buf	systemprogramming/messagequeue/messageqserver.c	/^        char buf[100];$/;"	m	struct:msg	file:
+buf	systemprogramming/messagequeue/server.c	/^    char buf[100];$/;"	m	struct:msg	file:
+c	matrix/spiralmatrix.c	3;"	d	file:
+charactertint	charactertint.c	/^int charactertint(char k)$/;"	f
+charactertint	charactertint.s	/^charactertint:$/;"	l
+charactertint	function.c	/^int charactertint(char k)$/;"	f
+charactertint	function.s	/^charactertint:$/;"	l
+circ	ds/circular_doublelinkedlist.c	/^struct circ $/;"	s	file:
+concat	function pointers/stringconcatf.c	/^void concat(char *p1,int n,char *p2,int m)$/;"	f
+concat	string manipulation/stringconcat.c	/^void concat(char *p1,int n,char *p2,int m)$/;"	f
+concat	void pointers/stringconcatuv.c	/^void concat(char *p1,int n,char *p2,int m)$/;"	f
+convert	commandlinearguments/commandintegerop.c	/^int* convert(char **p,int n)$/;"	f
+convert	function pointers/inttasciif.c	/^void convert(int n)$/;"	f
+convert	string manipulation/inttascii.c	/^void convert(int n)$/;"	f
+convert	void pointers/inttasciiuv.c	/^void convert(int n)$/;"	f
+count	ds/addbeg.c	/^int count()$/;"	f
+count	ds/stack.c	/^int count()$/;"	f
+count	ds/task.c	/^int count()$/;"	f
+countz	countz.c	/^int countz(int n)$/;"	f
+countz	countz.s	/^countz:$/;"	l
+countz	function.c	/^int countz(int n)$/;"	f
+countz	function.s	/^countz:$/;"	l
+create	ds/mergeSort.c	/^void create(int *ptr,int n,struct node **head)$/;"	f
+create_list	DS/Linked-Lists/singleLinkedList.c	/^void create_list(int s)$/;"	f
+create_list	ds/circular.c	/^void create_list(int *iptr,int n)$/;"	f
+create_list	ds/circular_doublelinkedlist.c	/^void create_list(int *a , int n)$/;"	f
+create_list	ds/singleLinkedList.c	/^void create_list(int s)$/;"	f
+createlist	project/project410.c	/^void createlist(int *a,int *ap,int n)$/;"	f
+createqueue	ds/queue.c	/^void createqueue(int *ptr,int n)$/;"	f
+createstack	ds/stack.c	/^void createstack(int *iptr,int n)$/;"	f
+crtlist	ds/addbeg.c	/^void crtlist(int *a,int n)$/;"	f
+d	proj2/client.c	/^	struct dob d;$/;"	m	struct:registration	typeref:struct:registration::dob	file:
+d	proj2/server.c	/^	struct dob d;$/;"	m	struct:profile	typeref:struct:profile::dob	file:
+d	structures/structuredyn.c	/^	char d;$/;"	m	struct:student	file:
+d	structures/swap.c	/^        char d;$/;"	m	struct:student	file:
+data	DS/D-Linked-Lists/DoubleLinkedList.c	/^	int data;$/;"	m	struct:node	file:
+data	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^	int data;$/;"	m	struct:node	file:
+data	DS/D-Linked-Lists/Queue_Dlinked.c	/^	int data;$/;"	m	struct:node	file:
+data	DS/Linked-Lists/Queue_Linked/QueueH.h	/^	int data;$/;"	m	struct:node
+data	DS/Linked-Lists/SingleLinkedLib/Stack_Header.h	/^	int data;$/;"	m	struct:node
+data	DS/Linked-Lists/singleLinkedList.c	/^	int data;$/;"	m	struct:node	file:
+data	DS/Linked-Lists/stack_singleLinked.c	/^	int data;$/;"	m	struct:node	file:
+data	DS/Queue_Dlinked.c	/^	int data;$/;"	m	struct:node	file:
+data	ds/DoubleLinkedList_H.c	/^	int data;$/;"	m	struct:node	file:
+data	ds/addbeg.c	/^	int data;$/;"	m	struct:node	file:
+data	ds/circular.c	/^	int data;$/;"	m	struct:node	file:
+data	ds/circularsingle.c	/^	int data;$/;"	m	struct:node	file:
+data	ds/mergeSort.c	/^	int data;$/;"	m	struct:node	file:
+data	ds/queue.c	/^	int data;$/;"	m	struct:str	file:
+data	ds/singleLinkedList.c	/^	int data;$/;"	m	struct:node	file:
+data	ds/stack.c	/^        int data;$/;"	m	struct:node	file:
+data	ds/stack_singleLinked.c	/^	int data;$/;"	m	struct:node	file:
+data	ds/task.c	/^	int data;$/;"	m	struct:node	file:
+data	project/project410.c	/^	int data;$/;"	m	struct:node	file:
+date	proj2/client.c	/^	unsigned int date:5;$/;"	m	struct:dob	file:
+date	proj2/server.c	/^	unsigned int date:5;$/;"	m	struct:dob	file:
+db	proj2/client.c	/^}db;$/;"	v	typeref:struct:dob
+decimal	decimal.c	/^int decimal(int n)$/;"	f
+decimal	decimal.s	/^decimal:$/;"	l
+decimal	function.c	/^int decimal(int n)$/;"	f
+decimal	function.s	/^decimal:$/;"	l
+delAtBeg	DS/Linked-Lists/SingleLinkedLib/delatBeg.c	/^void delAtBeg()$/;"	f
+delAtBeg	DS/Linked-Lists/singleLinkedList.c	/^void delAtBeg()$/;"	f
+delAtBeg	DS/Linked-Lists/stack_singleLinked.c	/^void delAtBeg()$/;"	f
+delAtBeg	ds/singleLinkedList.c	/^void delAtBeg()$/;"	f
+delAtBeg	ds/stack_singleLinked.c	/^void delAtBeg()$/;"	f
+delbeg	ds/addbeg.c	/^void delbeg()$/;"	f
+deldup	ds/queue.c	/^void deldup()$/;"	f
+delet	ds/task.c	/^void delet()$/;"	f
+delete	DS/queue.c	/^void delete(void)$/;"	f
+delete	assignment 2/deletechar.c	/^void delete(char *p,char k)$/;"	f
+delete	ds/queue.c	/^void delete()$/;"	f
+deleteAll	DS/Linked-Lists/SingleLinkedLib/deleteAll.c	/^void deleteAll()$/;"	f
+deleteAll	DS/Linked-Lists/singleLinkedList.c	/^void deleteAll()$/;"	f
+deleteAll	DS/Linked-Lists/stack_singleLinked.c	/^void deleteAll()$/;"	f
+deleteAll	ds/singleLinkedList.c	/^void deleteAll()$/;"	f
+deleteAll	ds/stack_singleLinked.c	/^void deleteAll()$/;"	f
+deleteAtlast	DS/Linked-Lists/SingleLinkedLib/deleteAtLast.c	/^void deleteAtlast()$/;"	f
+deleteAtlast	DS/Linked-Lists/singleLinkedList.c	/^void deleteAtlast()$/;"	f
+deleteAtlast	ds/singleLinkedList.c	/^void deleteAtlast()$/;"	f
+deleteParticularNode	DS/Linked-Lists/SingleLinkedLib/deleteParticularNode.c	/^void deleteParticularNode(int num)$/;"	f
+deleteParticularNode	DS/Linked-Lists/singleLinkedList.c	/^void deleteParticularNode(int num)$/;"	f
+deleteParticularNode	DS/Linked-Lists/stack_singleLinked.c	/^void deleteParticularNode(int num)$/;"	f
+deleteParticularNode	ds/singleLinkedList.c	/^void deleteParticularNode(int num)$/;"	f
+deleteParticularNode	ds/stack_singleLinked.c	/^void deleteParticularNode(int num)$/;"	f
+delete_Queue	DS/Linked-Lists/Queue_Linked/delete_Queue.c	/^void delete_Queue()$/;"	f
+delete_at_last	ds/circular.c	/^void delete_at_last()$/;"	f
+delete_entire	ds/circular.c	/^void delete_entire()$/;"	f
+delete_particular	ds/circular.c	/^void delete_particular(int data)$/;"	f
+deletebeg	ds/circularsingle.c	/^void deletebeg()$/;"	f
+deleted	project/project410.c	/^void deleted(int num,int p)$/;"	f
+deleteduplicatenodes	ds/stack.c	/^void deleteduplicatenodes()$/;"	f
+deletelast	ds/circularsingle.c	/^void deletelast()$/;"	f
+deletelast	ds/task.c	/^void deletelast()$/;"	f
+deletelist	ds/circularsingle.c	/^void deletelist()$/;"	f
+deletelist	project/project410.c	/^void deletelist()$/;"	f
+deletelistp	project/project410.c	/^void deletelistp(int p)$/;"	f
+deletep	project/project410.c	/^void deletep(int p)$/;"	f
+deleteparticularnode	ds/stack.c	/^void deleteparticularnode(int num)$/;"	f
+delett	ds/stack.c	/^void delett()$/;"	f
+delett	ds/task.c	/^void delett()$/;"	f
+dellast	ds/addbeg.c	/^void dellast()$/;"	f
+dellist	ds/addbeg.c	/^void dellist()$/;"	f
+delqueue	ds/queue.c	/^void delqueue()$/;"	f
+descending	commandlinearguments/commandintegerop.c	/^void descending(int *s,int n)$/;"	f
+display	DS/Linked-Lists/SingleLinkedLib/display.c	/^void display()$/;"	f
+display	DS/Linked-Lists/singleLinkedList.c	/^void display()$/;"	f
+display	DS/Linked-Lists/stack_singleLinked.c	/^void display()$/;"	f
+display	DS/queue.c	/^void display(int *ptr)$/;"	f
+display	ds/addbeg.c	/^void display()$/;"	f
+display	ds/circular.c	/^void display()$/;"	f
+display	ds/circular_doublelinkedlist.c	/^void display()$/;"	f
+display	ds/circularsingle.c	/^void display()$/;"	f
+display	ds/mergeSort.c	/^void display(struct node *head)$/;"	f
+display	ds/queue.c	/^void display()$/;"	f
+display	ds/singleLinkedList.c	/^void display()$/;"	f
+display	ds/stack.c	/^void display()$/;"	f
+display	ds/stack_singleLinked.c	/^void display()$/;"	f
+display	ds/task.c	/^void display()$/;"	f
+display	extern/f.c	/^void display()$/;"	f
+display	project/project410.c	/^void display()$/;"	f
+display	structures/structuredyn.c	/^void display(struct student *p,struct student *p1)$/;"	f
+display	structures/task.c	/^void display(struct book *ptr)$/;"	f
+display_Queue	DS/Linked-Lists/Queue_Linked/display_Queue.c	/^void display_Queue()$/;"	f
+displayinput	switchpointer.c	/^void displayinput(int *ptr, int n)$/;"	f
+displayinput	voidp.c	/^void displayinput(void *ptr, int n)$/;"	f
+displayp	project/project410.c	/^void displayp(int p)$/;"	f
+dist	proj2/client.c	/^	char dist[50];$/;"	m	struct:address	file:
+dist	proj2/server.c	/^	char dist[50];$/;"	m	struct:address	file:
+dlt_at_beg	ds/circular_doublelinkedlist.c	/^void dlt_at_beg()$/;"	f
+dlt_at_last	ds/circular_doublelinkedlist.c	/^void dlt_at_last()$/;"	f
+dlt_particular	ds/circular_doublelinkedlist.c	/^void dlt_particular(int x)$/;"	f
+dob	proj2/client.c	/^struct dob$/;"	s	file:
+dob	proj2/server.c	/^struct dob$/;"	s	file:
+f	DS/queue.c	/^int r = -1, f = -1;		 \/\/ global variables for front and rear index$/;"	v
+f_display	structures/task.c	/^	void (*f_display)(struct book *);$/;"	m	struct:book_ops	file:
+f_ma	structures/task.c	/^	struct book * (*f_ma)();$/;"	m	struct:book_ops	typeref:struct:book_ops::f_ma	file:
+f_md	structures/task.c	/^	void (*f_md)(struct book *);$/;"	m	struct:book_ops	file:
+f_read	structures/task.c	/^	void (*f_read)(struct book *);$/;"	m	struct:book_ops	file:
+f_swap	structures/task.c	/^	void (*f_swap)(struct book *);$/;"	m	struct:book_ops	file:
+fibanocci	fibanocci.c	/^int fibanocci(int n)$/;"	f
+fibanocci	fibanocci.s	/^fibanocci:$/;"	l
+fibanocci	function.c	/^int fibanocci(int n)$/;"	f
+fibanocci	function.s	/^fibanocci:$/;"	l
+front	DS/D-Linked-Lists/Queue_Dlinked.c	/^struct node *front, *rear;$/;"	v	typeref:struct:node
+front	DS/Linked-Lists/Queue_Linked/QueueMain.c	/^struct node *front= NULL, *rear = NULL;$/;"	v	typeref:struct:node
+front	DS/Queue_Dlinked.c	/^struct node *front = NULL, *rear = NULL;$/;"	v	typeref:struct:node
+front	ds/queue.c	/^struct str *front=NULL,*rear=NULL;$/;"	v	typeref:struct:str
+fun	k.c	/^void fun(int a[])$/;"	f
+funcc	bulb.c	/^funcc(int a,int b)$/;"	f
+g	structures/structuredyn.c	/^	char g;$/;"	m	struct:student	file:
+g	structures/swap.c	/^        char g;$/;"	m	struct:student	file:
+gen	proj2/client.c	/^	char gen;$/;"	m	struct:registration	file:
+gen	proj2/server.c	/^	char gen;$/;"	m	struct:profile	file:
+gen	structures/size.c	/^	float gen;$/;"	m	struct:student	file:
+glob	systemprogramming/files/threads/thread.c	/^int glob=0;$/;"	v
+glob	systemprogramming/threads/thread1.c	/^int glob;$/;"	v
+grad	structures/size.c	/^	char grad;$/;"	m	struct:student	file:
+head	DS/D-Linked-Lists/DoubleLinkedList.c	/^struct node *head = NULL;$/;"	v	typeref:struct:node
+head	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^struct node *head = NULL;$/;"	v	typeref:struct:node
+head	DS/Linked-Lists/SingleLinkedLib/Main_Stack.c	/^struct node *head = NULL;$/;"	v	typeref:struct:node
+head	DS/Linked-Lists/singleLinkedList.c	/^struct node *head = NULL;$/;"	v	typeref:struct:node
+head	DS/Linked-Lists/stack_singleLinked.c	/^struct node *head = NULL;$/;"	v	typeref:struct:node
+head	ds/DoubleLinkedList_H.c	/^struct node *head = NULL;$/;"	v	typeref:struct:node
+head	ds/addbeg.c	/^struct node *head=NULL;$/;"	v	typeref:struct:node
+head	ds/circular.c	/^struct node * head;$/;"	v	typeref:struct:node
+head	ds/circular_doublelinkedlist.c	/^struct circ *head = NULL;$/;"	v	typeref:struct:circ
+head	ds/circularsingle.c	/^struct node *head=NULL;$/;"	v	typeref:struct:node
+head	ds/mergeSort.c	/^struct node *head=NULL,*head1=NULL,*head2=NULL;$/;"	v	typeref:struct:node
+head	ds/singleLinkedList.c	/^struct node *head = NULL;$/;"	v	typeref:struct:node
+head	ds/stack.c	/^struct node *head=NULL;$/;"	v	typeref:struct:node
+head	ds/stack_singleLinked.c	/^struct node *head = NULL;$/;"	v	typeref:struct:node
+head	ds/task.c	/^struct node *head=NULL;$/;"	v	typeref:struct:node
+head	project/project410.c	/^struct node *head=NULL;$/;"	v	typeref:struct:node
+head1	ds/mergeSort.c	/^struct node *head=NULL,*head1=NULL,*head2=NULL;$/;"	v	typeref:struct:
+head2	ds/mergeSort.c	/^struct node *head=NULL,*head1=NULL,*head2=NULL;$/;"	v	typeref:struct:
+i	recurssive/decbin.c	/^long int i=1;$/;"	v
+id	structures/size.c	/^	unsigned int id;$/;"	m	struct:student	file:
+id	structures/structuredyn.c	/^	int id;$/;"	m	struct:student	file:
+id	structures/swap.c	/^        int id;$/;"	m	struct:student	file:
+insert	DS/queue.c	/^void insert(int *ptr, int num)$/;"	f
+insert	ds/queue.c	/^void insert(int num)$/;"	f
+insert	project/project410.c	/^void insert(int num,int p)$/;"	f
+insert_Queue	DS/Linked-Lists/Queue_Linked/insert_Queue.c	/^void insert_Queue(int num)$/;"	f
+lg	proj2/client.c	/^}lg;	$/;"	v	typeref:struct:login
+link	DS/Linked-Lists/Queue_Linked/QueueH.h	/^	struct node *link;$/;"	m	struct:node	typeref:struct:node::node
+link	DS/Linked-Lists/SingleLinkedLib/Stack_Header.h	/^	struct node *link;$/;"	m	struct:node	typeref:struct:node::node
+link	DS/Linked-Lists/singleLinkedList.c	/^	struct node *link;$/;"	m	struct:node	typeref:struct:node::node	file:
+link	DS/Linked-Lists/stack_singleLinked.c	/^	struct node *link;$/;"	m	struct:node	typeref:struct:node::node	file:
+link	ds/circularsingle.c	/^	struct node *link;$/;"	m	struct:node	typeref:struct:node::node	file:
+link	ds/mergeSort.c	/^	struct node *link;$/;"	m	struct:node	typeref:struct:node::node	file:
+link	ds/queue.c	/^	struct str *link;$/;"	m	struct:str	typeref:struct:str::str	file:
+link	ds/singleLinkedList.c	/^	struct node *link;$/;"	m	struct:node	typeref:struct:node::node	file:
+link	ds/stack.c	/^        struct node *link;$/;"	m	struct:node	typeref:struct:node::node	file:
+link	ds/stack_singleLinked.c	/^	struct node *link;$/;"	m	struct:node	typeref:struct:node::node	file:
+link	ds/task.c	/^	struct node *link;$/;"	m	struct:node	typeref:struct:node::node	file:
+location	proj2/client.c	/^	char location[50];$/;"	m	struct:address	file:
+location	proj2/server.c	/^	char location[50];$/;"	m	struct:address	file:
+login	proj2/client.c	/^struct login$/;"	s	file:
+lower	matrix/lower.c	/^void lower(int r,int c,int(*a)[c])$/;"	f
+lowtoup	function.c	/^int lowtoup(char k)$/;"	f
+lowtoup	function.s	/^lowtoup:$/;"	l
+lowtoup	lowtoup.c	/^int lowtoup(char k)$/;"	f
+lowtoup	lowtoup.s	/^lowtoup:$/;"	l
+m1	systemprogramming/threads/thread1.c	/^pthread_mutex_t m1 = PTHREAD_MUTEX_INITIALIZER;$/;"	v
+m2	systemprogramming/threads/thread1.c	/^pthread_mutex_t m2 = PTHREAD_MUTEX_INITIALIZER;$/;"	v
+main	1.c	/^int main()$/;"	f
+main	2.c	/^void main()$/;"	f
+main	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^void main()$/;"	f
+main	DS/Linked-Lists/Queue_Linked/QueueMain.c	/^int main()$/;"	f
+main	DS/Linked-Lists/SingleLinkedLib/Main_Stack.c	/^int main()$/;"	f
+main	DS/Linked-Lists/singleLinkedList.c	/^int main()$/;"	f
+main	DS/Linked-Lists/stack_singleLinked.c	/^int main()$/;"	f
+main	DS/Linked-Lists/test.c	/^main()$/;"	f
+main	DS/Queue_Dlinked.c	/^void main()	$/;"	f
+main	DS/queue.c	/^void main()$/;"	f
+main	a-k.s	/^main:$/;"	l
+main	assignement.c	/^void main()$/;"	f
+main	assignment 2/assignment3.c	/^void main()$/;"	f
+main	assignment 2/assignment4.c	/^void main()$/;"	f
+main	assignment 2/countofvowel.c	/^void main()$/;"	f
+main	assignment 2/deletechar.c	/^void main()$/;"	f
+main	assignment 2/reverse.c	/^void main()$/;"	f
+main	bitwise.c	/^int main()$/;"	f
+main	bulb.c	/^main()$/;"	f
+main	call.c	/^void main()$/;"	f
+main	char_first.c	/^void main()$/;"	f
+main	commandlinearguments/commandintegerop.c	/^void main(int argc,char *argv[])$/;"	f
+main	commandlinearguments/k.c	/^void main()$/;"	f
+main	conditional.c	/^void main()$/;"	f
+main	deleterepeat.c	/^void main()$/;"	f
+main	dma.c	/^void main()$/;"	f
+main	ds/DoubleLinkedList_H.c	/^void main()$/;"	f
+main	ds/addbeg.c	/^void main()$/;"	f
+main	ds/circular.c	/^void main()$/;"	f
+main	ds/circular_doublelinkedlist.c	/^void main()$/;"	f
+main	ds/circularsingle.c	/^void main()$/;"	f
+main	ds/mergeSort.c	/^int main()$/;"	f
+main	ds/queue.c	/^void main()$/;"	f
+main	ds/singleLinkedList.c	/^int main()$/;"	f
+main	ds/stack.c	/^void main()$/;"	f
+main	ds/stack_singleLinked.c	/^int main()$/;"	f
+main	ds/task.c	/^void main()$/;"	f
+main	dynamic library/function1.c	/^void main()$/;"	f
+main	dynamic library/function1.s	/^main:$/;"	l
+main	extern/k.c	/^void main()$/;"	f
+main	function pointers/inttasciif.c	/^void main()$/;"	f
+main	function pointers/repeatedstringf.c	/^void main()$/;"	f
+main	function pointers/stringconcatf.c	/^void main()$/;"	f
+main	function pointers/stringsearchf.c	/^void main()$/;"	f
+main	function pointers/strpalindromef.c	/^void main()$/;"	f
+main	function.c	/^void main()$/;"	f
+main	function.s	/^main:$/;"	l
+main	function1.c	/^void main()$/;"	f
+main	function1.s	/^main:$/;"	l
+main	gdynamic/assignment3.c	/^void main()$/;"	f
+main	gstatic/assignment3.c	/^void main()$/;"	f
+main	k.c	/^main()$/;"	f
+main	kernel/makefile/1.c	/^void main()$/;"	f
+main	l.c	/^void main()$/;"	f
+main	large2.c	/^void main()$/;"	f
+main	least2.c	/^void main()$/;"	f
+main	little.c	/^void main()$/;"	f
+main	macro.c	/^void main()$/;"	f
+main	matrix/add.c	/^void main()$/;"	f
+main	matrix/lower.c	/^void main()$/;"	f
+main	matrix/mul.c	/^void main()$/;"	f
+main	matrix/nonzero.c	/^void main()$/;"	f
+main	matrix/spiralmatrix.c	/^void main()$/;"	f
+main	matrix/transpose.c	/^void main()$/;"	f
+main	matrix/upper.c	/^void main()$/;"	f
+main	missing.c	/^void main()$/;"	f
+main	nsc.c	/^void main()$/;"	f
+main	oct10.c	/^void main()$/;"	f
+main	oral.c	/^int main()$/;"	f
+main	pointer.c	/^void main()$/;"	f
+main	pointers/constant.c	/^void main()$/;"	f
+main	pointers/differencepointers.c	/^void main()$/;"	f
+main	pointers/doublep.c	/^void main()$/;"	f
+main	practice.c	/^main()$/;"	f
+main	proj2/client.c	/^void main()$/;"	f
+main	proj2/server.c	/^void main()$/;"	f
+main	project/project410.c	/^void main()$/;"	f
+main	realconstant.c	/^main()$/;"	f
+main	recurssive/decbin.c	/^void main()$/;"	f
+main	recurssive/strrev.c	/^void main()$/;"	f
+main	s.c	/^void main()$/;"	f
+main	sa.s	/^main:$/;"	l
+main	sc1.c	/^void main()$/;"	f
+main	sc2.c	/^void main()$/;"	f
+main	sign.c	/^void main()$/;"	f
+main	sl.c	/^void main()$/;"	f
+main	spiral.c	/^int main()$/;"	f
+main	static library/function1.c	/^void main()$/;"	f
+main	static library/function1.s	/^main:$/;"	l
+main	string manipulation/inttascii.c	/^void main()$/;"	f
+main	string manipulation/repeatedstring.c	/^void main()$/;"	f
+main	string manipulation/stringconcat.c	/^void main()$/;"	f
+main	string manipulation/stringreplace.c	/^void main()$/;"	f
+main	string manipulation/stringsearch.c	/^void main()$/;"	f
+main	string manipulation/strpalindrome.c	/^void main()$/;"	f
+main	structures/size.c	/^void main()$/;"	f
+main	structures/structuredyn.c	/^void main()$/;"	f
+main	structures/swap.c	/^void main()$/;"	f
+main	structures/task.c	/^void main()$/;"	f
+main	swapup.c	/^void main()$/;"	f
+main	switchpointer.c	/^void main()$/;"	f
+main	systemprogramming/exec/exec.c	/^void main()$/;"	f
+main	systemprogramming/exec/exec1.c	/^void main()$/;"	f
+main	systemprogramming/exec/fork.c	/^void main()$/;"	f
+main	systemprogramming/exec/gdb.c	/^void main()$/;"	f
+main	systemprogramming/exec/orphan.c	/^void main()$/;"	f
+main	systemprogramming/exec/shell.c	/^void main()$/;"	f
+main	systemprogramming/exec/signal.c	/^void main()$/;"	f
+main	systemprogramming/exec/sys.c	/^void main()$/;"	f
+main	systemprogramming/exec/syspro.c	/^void main()$/;"	f
+main	systemprogramming/exec/sysprogpid.c	/^void main()$/;"	f
+main	systemprogramming/exec/systc.c	/^void main()$/;"	f
+main	systemprogramming/exec/systc1.c	/^void main()$/;"	f
+main	systemprogramming/exec/test.c	/^int main()$/;"	f
+main	systemprogramming/files/cat.c	/^void main(int argc,char *argv[])$/;"	f
+main	systemprogramming/files/close.c	/^void main()$/;"	f
+main	systemprogramming/files/copy.c	/^void main(int argc,char *argv[])$/;"	f
+main	systemprogramming/files/create.c	/^void main()$/;"	f
+main	systemprogramming/files/dup.c	/^void main()$/;"	f
+main	systemprogramming/files/dup2.c	/^void main()$/;"	f
+main	systemprogramming/files/lseek.c	/^void main()$/;"	f
+main	systemprogramming/files/open.c	/^void main()$/;"	f
+main	systemprogramming/files/pipes.c	/^void main()$/;"	f
+main	systemprogramming/files/read.c	/^void main()$/;"	f
+main	systemprogramming/files/stat.c	/^void main(int argc,char *argv[])$/;"	f
+main	systemprogramming/files/std.c	/^void main()$/;"	f
+main	systemprogramming/files/swap.c	/^void main()$/;"	f
+main	systemprogramming/files/threads/thread.c	/^void main()$/;"	f
+main	systemprogramming/files/write.c	/^void main()$/;"	f
+main	systemprogramming/memorymanagement/anonymous.c	/^void main()$/;"	f
+main	systemprogramming/memorymanagement/cat.c	/^void main()$/;"	f
+main	systemprogramming/memorymanagement/copy.c	/^void main()$/;"	f
+main	systemprogramming/messagequeue/client.c	/^int main()$/;"	f
+main	systemprogramming/messagequeue/messageqclient.c	/^void main()$/;"	f
+main	systemprogramming/messagequeue/messageqserver.c	/^void main()$/;"	f
+main	systemprogramming/messagequeue/server.c	/^int main()$/;"	f
+main	systemprogramming/pipes/namedpipeclient.c	/^void main()$/;"	f
+main	systemprogramming/pipes/namedpipeserver.c	/^void main()$/;"	f
+main	systemprogramming/pipes/negationpipe.c	/^void main()$/;"	f
+main	systemprogramming/semaphores/client.c	/^void main()$/;"	f
+main	systemprogramming/semaphores/client1.c	/^void main()$/;"	f
+main	systemprogramming/semaphores/client2.c	/^void main()$/;"	f
+main	systemprogramming/semaphores/server.c	/^void main()$/;"	f
+main	systemprogramming/sharedmem/client.c	/^void main()$/;"	f
+main	systemprogramming/sharedmem/server.c	/^void main()$/;"	f
+main	systemprogramming/signals/alarm.c	/^void main()$/;"	f
+main	systemprogramming/signals/sigaction.c	/^void main()$/;"	f
+main	systemprogramming/signals/sigblock.c	/^void main()$/;"	f
+main	systemprogramming/signals/signal.c	/^void main()$/;"	f
+main	systemprogramming/signals/signalmanipulation.c	/^void main()$/;"	f
+main	systemprogramming/socket/tcp/client.c	/^void main()$/;"	f
+main	systemprogramming/socket/tcp/server.c	/^void main()$/;"	f
+main	systemprogramming/socket/udp/client.c	/^void main()$/;"	f
+main	systemprogramming/threads/thread1.c	/^void main()$/;"	f
+main	systemprogramming/threads/threadcreation.c	/^void main()$/;"	f
+main	test.c	/^main()$/;"	f
+main	tt.c	/^void main()$/;"	f
+main	void pointers/inttasciiuv.c	/^void main()$/;"	f
+main	void pointers/repeatedstringuv.c	/^void main()$/;"	f
+main	void pointers/stringconcatuv.c	/^void main()$/;"	f
+main	void pointers/stringsearchuv.c	/^void main()$/;"	f
+main	void pointers/strpalindromeuv.c	/^void main()$/;"	f
+main	voidp.c	/^void main()$/;"	f
+main	xx.c	/^void main()$/;"	f
+memorya	structures/structuredyn.c	/^struct student * memorya()$/;"	f
+memorya	structures/task.c	/^struct book* memorya()$/;"	f
+memoryd	structures/structuredyn.c	/^void memoryd(struct student *p)$/;"	f
+memoryd	structures/task.c	/^void memoryd(struct book *ptr)$/;"	f
+merge	ds/mergeSort.c	/^void merge(struct node *head,struct node *head1,struct node **head2)$/;"	f
+message	systemprogramming/messagequeue/server.c	/^struct msg message;$/;"	v	typeref:struct:msg
+month	proj2/client.c	/^	unsigned int month:4;$/;"	m	struct:dob	file:
+month	proj2/server.c	/^	unsigned int month:4;$/;"	m	struct:dob	file:
+msg	systemprogramming/messagequeue/client.c	/^struct msg$/;"	s	file:
+msg	systemprogramming/messagequeue/messageqclient.c	/^struct msg$/;"	s	file:
+msg	systemprogramming/messagequeue/messageqserver.c	/^struct msg$/;"	s	file:
+msg	systemprogramming/messagequeue/server.c	/^struct msg$/;"	s	file:
+msgtype	systemprogramming/messagequeue/client.c	/^    long msgtype;$/;"	m	struct:msg	file:
+msgtype	systemprogramming/messagequeue/messageqclient.c	/^	long msgtype;$/;"	m	struct:msg	file:
+msgtype	systemprogramming/messagequeue/messageqserver.c	/^        long msgtype;$/;"	m	struct:msg	file:
+msgtype	systemprogramming/messagequeue/server.c	/^    long msgtype;$/;"	m	struct:msg	file:
+mtx	systemprogramming/files/threads/thread.c	/^pthread_mutex_t mtx=PTHREAD_MUTEX_INITIALIZER;$/;"	v
+multiplication	matrix/mul.c	/^void multiplication(int r1,int c1,int (*a)[c1],int r2,int c2,int (*b)[c2])$/;"	f
+myhandler	systemprogramming/signals/sigaction.c	/^void myhandler(int signo)$/;"	f
+myhandler	systemprogramming/signals/signal.c	/^void myhandler(int signo)$/;"	f
+myhandler	systemprogramming/signals/signalmanipulation.c	/^void myhandler(int signo)$/;"	f
+mystrcmp	assignment 2/countofvowel.c	/^int mystrcmp(char *src,int m)$/;"	f
+mystrcmp	function pointers/stringsearchf.c	/^int mystrcmp(char *src,char *dst,int n)$/;"	f
+mystrcmp	string manipulation/stringsearch.c	/^int mystrcmp(char *src,char *dst,int n)$/;"	f
+mystrcmp	void pointers/stringsearchuv.c	/^int  mystrcmp(char *src,char *dst,int n)$/;"	f
+mythread	systemprogramming/threads/threadcreation.c	/^void* mythread(void *ptr)$/;"	f
+n	proj2/client.c	/^	struct nominee n;$/;"	m	struct:registration	typeref:struct:registration::nominee	file:
+n	proj2/client.c	/^}n;$/;"	v	typeref:struct:nominee
+n	proj2/server.c	/^	struct nominee n;$/;"	m	struct:profile	typeref:struct:profile::nominee	file:
+n_adhno	proj2/client.c	/^	unsigned long int n_adhno;$/;"	m	struct:nominee	file:
+n_adhno	proj2/server.c	/^	unsigned long int n_adhno;$/;"	m	struct:nominee	file:
+n_mbno	proj2/client.c	/^	unsigned int n_mbno;$/;"	m	struct:nominee	file:
+n_mbno	proj2/server.c	/^	unsigned int n_mbno;$/;"	m	struct:nominee	file:
+n_name	proj2/client.c	/^	char n_name[100];$/;"	m	struct:nominee	file:
+n_name	proj2/server.c	/^	char n_name[100];$/;"	m	struct:nominee	file:
+name	structures/size.c	/^	char name[32];$/;"	m	struct:student	file:
+name	structures/structuredyn.c	/^	char name[32];$/;"	m	struct:student	file:
+name	structures/swap.c	/^        char name[32];$/;"	m	struct:student	file:
+name	structures/task.c	/^	char name[32];$/;"	m	struct:book	file:
+next	DS/D-Linked-Lists/DoubleLinkedList.c	/^	struct node *next;$/;"	m	struct:node	typeref:struct:node::node	file:
+next	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^	struct node *next;$/;"	m	struct:node	typeref:struct:node::node	file:
+next	DS/D-Linked-Lists/Queue_Dlinked.c	/^	struct node *next;$/;"	m	struct:node	typeref:struct:node::node	file:
+next	DS/Queue_Dlinked.c	/^	struct node *next;$/;"	m	struct:node	typeref:struct:node::node	file:
+next	ds/DoubleLinkedList_H.c	/^	struct node *next;$/;"	m	struct:node	typeref:struct:node::node	file:
+next	ds/addbeg.c	/^	struct node *next;$/;"	m	struct:node	typeref:struct:node::node	file:
+next	ds/circular.c	/^	struct node *next;$/;"	m	struct:node	typeref:struct:node::node	file:
+next	ds/circular_doublelinkedlist.c	/^	struct circ *next;$/;"	m	struct:circ	typeref:struct:circ::circ	file:
+next	project/project410.c	/^	struct node *next;$/;"	m	struct:node	typeref:struct:node::node	file:
+node	DS/D-Linked-Lists/DoubleLinkedList.c	/^struct node$/;"	s	file:
+node	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^struct node$/;"	s	file:
+node	DS/D-Linked-Lists/Queue_Dlinked.c	/^struct node$/;"	s	file:
+node	DS/Linked-Lists/Queue_Linked/QueueH.h	/^struct node$/;"	s
+node	DS/Linked-Lists/SingleLinkedLib/Stack_Header.h	/^struct node$/;"	s
+node	DS/Linked-Lists/singleLinkedList.c	/^struct node$/;"	s	file:
+node	DS/Linked-Lists/stack_singleLinked.c	/^struct node$/;"	s	file:
+node	DS/Queue_Dlinked.c	/^struct node$/;"	s	file:
+node	ds/DoubleLinkedList_H.c	/^struct node$/;"	s	file:
+node	ds/addbeg.c	/^struct node$/;"	s	file:
+node	ds/circular.c	/^struct node$/;"	s	file:
+node	ds/circularsingle.c	/^struct node$/;"	s	file:
+node	ds/mergeSort.c	/^struct node$/;"	s	file:
+node	ds/singleLinkedList.c	/^struct node$/;"	s	file:
+node	ds/stack.c	/^struct node$/;"	s	file:
+node	ds/stack_singleLinked.c	/^struct node$/;"	s	file:
+node	ds/task.c	/^struct node$/;"	s	file:
+node	project/project410.c	/^struct node$/;"	s	file:
+nominee	proj2/client.c	/^struct nominee$/;"	s	file:
+nominee	proj2/server.c	/^struct nominee$/;"	s	file:
+nop	structures/task.c	/^	int nop;$/;"	m	struct:book	file:
+num	ds/circular_doublelinkedlist.c	/^	int num;$/;"	m	struct:circ	file:
+palindrome	commandlinearguments/commandintegerop.c	/^void palindrome(int p)$/;"	f
+palindrome	function pointers/strpalindromef.c	/^int palindrome(char *ptr)$/;"	f
+palindrome	function.c	/^int palindrome(int n)$/;"	f
+palindrome	function.s	/^palindrome:$/;"	l
+palindrome	palindrome.c	/^int palindrome(int n)$/;"	f
+palindrome	palindrome.s	/^palindrome:$/;"	l
+palindrome	string manipulation/strpalindrome.c	/^int palindrome(char *ptr)$/;"	f
+palindrome	void pointers/strpalindromeuv.c	/^int palindrome(char *ptr)$/;"	f
+password	proj2/client.c	/^	char password[16];$/;"	m	struct:registration	file:
+password	proj2/server.c	/^	char password[16];$/;"	m	struct:profile	file:
+pid	systemprogramming/messagequeue/client.c	/^    long pid;$/;"	m	struct:msg	file:
+pid	systemprogramming/messagequeue/messageqclient.c	/^	long pid;$/;"	m	struct:msg	file:
+pid	systemprogramming/messagequeue/messageqserver.c	/^        long pid;$/;"	m	struct:msg	file:
+pid	systemprogramming/messagequeue/server.c	/^    long pid;$/;"	m	struct:msg	file:
+pin	proj2/client.c	/^	unsigned int pin;$/;"	m	struct:address	file:
+pin	proj2/server.c	/^	unsigned int pin;$/;"	m	struct:address	file:
+pop	ds/stack.c	/^void pop()$/;"	f
+prev	DS/D-Linked-Lists/DoubleLinkedList.c	/^	struct node *prev;$/;"	m	struct:node	typeref:struct:node::node	file:
+prev	DS/D-Linked-Lists/DoubleLinkedList_H.c	/^	struct node *prev;$/;"	m	struct:node	typeref:struct:node::node	file:
+prev	DS/D-Linked-Lists/Queue_Dlinked.c	/^	struct node *prev;$/;"	m	struct:node	typeref:struct:node::node	file:
+prev	DS/Queue_Dlinked.c	/^	struct node *prev;$/;"	m	struct:node	typeref:struct:node::node	file:
+prev	ds/DoubleLinkedList_H.c	/^	struct node *prev;$/;"	m	struct:node	typeref:struct:node::node	file:
+prev	ds/addbeg.c	/^	struct node *prev;$/;"	m	struct:node	typeref:struct:node::node	file:
+prev	ds/circular.c	/^	struct node *prev;$/;"	m	struct:node	typeref:struct:node::node	file:
+prev	ds/circular_doublelinkedlist.c	/^	struct circ *prev;$/;"	m	struct:circ	typeref:struct:circ::circ	file:
+prev	project/project410.c	/^	struct node *prev;$/;"	m	struct:node	typeref:struct:node::node	file:
+price	structures/task.c	/^	float price;$/;"	m	struct:book	file:
+priority	project/project410.c	/^	int priority;$/;"	m	struct:node	file:
+profile	proj2/server.c	/^struct profile$/;"	s	file:
+push	ds/stack.c	/^void push(int num)$/;"	f
+r	DS/queue.c	/^int r = -1, f = -1;		 \/\/ global variables for front and rear index$/;"	v
+r	matrix/spiralmatrix.c	2;"	d	file:
+r	proj2/client.c	/^}r;$/;"	v	typeref:struct:registration
+read	structures/structuredyn.c	/^void read(struct student *p,struct student *p1)$/;"	f
+read	structures/task.c	/^void read(struct book *ptr)$/;"	f
+readinput	switchpointer.c	/^void readinput(int *ptr,int n)$/;"	f
+readinput	voidp.c	/^void readinput(void *ptr,int n)$/;"	f
+rear	DS/D-Linked-Lists/Queue_Dlinked.c	/^struct node *front, *rear;$/;"	v	typeref:struct:
+rear	DS/Linked-Lists/Queue_Linked/QueueMain.c	/^struct node *front= NULL, *rear = NULL;$/;"	v	typeref:struct:
+rear	DS/Queue_Dlinked.c	/^struct node *front = NULL, *rear = NULL;$/;"	v	typeref:struct:
+rear	ds/queue.c	/^struct str *front=NULL,*rear=NULL;$/;"	v	typeref:struct:
+registration	proj2/client.c	/^struct registration$/;"	s	file:
+repeat	function pointers/repeatedstringf.c	/^void repeat(char *p,int n)$/;"	f
+repeat	string manipulation/repeatedstring.c	/^void repeat(char *p,int n)$/;"	f
+repeat	void pointers/repeatedstringuv.c	/^void repeat(char *p,int n)$/;"	f
+replace	string manipulation/stringreplace.c	/^void replace(char *src,char *dst,int s,int d,int r,char *rep)$/;"	f
+replace101	function.c	/^int replace101(int n)$/;"	f
+replace101	function.s	/^replace101:$/;"	l
+replace101	replace101.c	/^int replace101(int n)$/;"	f
+replace101	replace101.s	/^replace101:$/;"	l
+reverse	assignment 2/reverse.c	/^void reverse(char *p)$/;"	f
+reverse	ds/circular_doublelinkedlist.c	/^void reverse()$/;"	f
+reverse	ds/queue.c	/^void reverse()$/;"	f
+reverseList	DS/Linked-Lists/singleLinkedList.c	/^void reverseList()$/;"	f
+reverseList	ds/singleLinkedList.c	/^void reverseList()$/;"	f
+reverseStack	DS/Linked-Lists/SingleLinkedLib/ReverseStack.c	/^void reverseStack()$/;"	f
+reverseStack	DS/Linked-Lists/stack_singleLinked.c	/^void reverseStack()$/;"	f
+reverseStack	ds/stack_singleLinked.c	/^void reverseStack()$/;"	f
+reverselist	ds/stack.c	/^void reverselist()$/;"	f
+reverselist	ds/task.c	/^void reverselist()$/;"	f
+rotate	assignment 2/assignment3.c	/^void rotate(int *c,int n,int m)$/;"	f
+rotate	gdynamic/rotate.c	/^void rotate(int *c,int n,int m)$/;"	f
+rotate	gstatic/rotate.c	/^void rotate(int *c,int n,int m)$/;"	f
+search	ds/addbeg.c	/^int search(int num)$/;"	f
+search	ds/circular_doublelinkedlist.c	/^void search(int x)$/;"	f
+search	ds/stack.c	/^int search(int num)$/;"	f
+search	ds/task.c	/^int search(int num)$/;"	f
+search	string manipulation/stringreplace.c	/^int search(char *src,char *dst,int n)$/;"	f
+secondbig	switchpointer.c	/^int secondbig(int *ptr,int n)$/;"	f
+secondbig	voidp.c	/^int secondbig(void *ptr,int n)$/;"	f
+selectionsortd	project/project410.c	/^void selectionsortd()$/;"	f
+selectionsortl	ds/circularsingle.c	/^void selectionsortl()$/;"	f
+selectionsortl	project/project410.c	/^void selectionsortl()$/;"	f
+serv	proj2/client.c	/^struct sockaddr_in serv;$/;"	v	typeref:struct:sockaddr_in
+sockfd	proj2/client.c	/^int sockfd;$/;"	v
+sort	ds/circular.c	/^void sort()$/;"	f
+space	assignment 2/assignment3.c	/^void space(char *a)$/;"	f
+space	gdynamic/space.c	/^void space(char *a)$/;"	f
+space	gstatic/space.c	/^void space(char *a)$/;"	f
+state	proj2/client.c	/^	char state[50];$/;"	m	struct:address	file:
+state	proj2/server.c	/^	char state[50];$/;"	m	struct:address	file:
+str	ds/queue.c	/^struct str$/;"	s	file:
+str	recurssive/strrev.c	/^void str(char *a,int i,int l){$/;"	f
+student	structures/size.c	/^struct student$/;"	s	file:
+student	structures/size.c	/^}student;$/;"	v	typeref:struct:student
+student	structures/structuredyn.c	/^struct student$/;"	s	file:
+student	structures/swap.c	/^struct student$/;"	s	file:
+sum	kernel/makefile/2.c	/^int sum(int i,int j)$/;"	f
+sum	recurssive/decbin.c	/^long int sum=0;$/;"	v
+sumofdigits	function.c	/^int sumofdigits(int n)$/;"	f
+sumofdigits	function.s	/^sumofdigits:$/;"	l
+sumofdigits	sumofdigits.c	/^int sumofdigits(int n)$/;"	f
+sumofdigits	sumofdigits.s	/^sumofdigits:$/;"	l
+swap	ds/circular.c	/^void swap(int pos1,int pos2)$/;"	f
+swap	ds/circular_doublelinkedlist.c	/^void swap(int x ,int y)$/;"	f
+swap	structures/task.c	/^void swap(struct book *ptr)$/;"	f
+swapb	function.c	/^int swapb(int n, int m)$/;"	f
+swapb	function.s	/^swapb:$/;"	l
+swapb	swapb.c	/^int swapb(int n, int m)$/;"	f
+swapb	swapb.s	/^swapb:$/;"	l
+swapbits	function.c	/^int swapbits(int n)$/;"	f
+swapbits	function.s	/^swapbits:$/;"	l
+swapbits	swapbits.c	/^int swapbits(int n)$/;"	f
+swapbits	swapbits.s	/^swapbits:$/;"	l
+swapn3	function.c	/^int swapn3(int n,int m)$/;"	f
+swapn3	function.s	/^swapn3:$/;"	l
+swapn3	swapn3.c	/^int swapn3(int n,int m)$/;"	f
+swapn3	swapn3.s	/^swapn3:$/;"	l
+swapu3	function.c	/^int swapu3(int n , int m )$/;"	f
+swapu3	function.s	/^swapu3:$/;"	l
+swapu3	swapu3.c	/^int swapu3(int n , int m )$/;"	f
+swapu3	swapu3.s	/^swapu3:$/;"	l
+t1	systemprogramming/threads/thread1.c	/^pthread_t t1,t2;$/;"	v
+t2	systemprogramming/threads/thread1.c	/^pthread_t t1,t2;$/;"	v
+thread1	systemprogramming/threads/thread1.c	/^void* thread1(void *ptr)$/;"	f
+thread2	systemprogramming/threads/thread1.c	/^void* thread2(void *ptr)$/;"	f
+thread_fun1	systemprogramming/files/threads/thread.c	/^void * thread_fun1(void *arg)$/;"	f
+thread_fun2	systemprogramming/files/threads/thread.c	/^void * thread_fun2(void *arg)$/;"	f
+transpose	matrix/transpose.c	/^void transpose(int r,int c,int(*a)[c])$/;"	f
+u_id	proj2/client.c	/^	char u_id[8];$/;"	m	struct:registration	file:
+u_id	proj2/server.c	/^	char u_id[8];$/;"	m	struct:profile	file:
+u_name	proj2/client.c	/^	char u_name[100];$/;"	m	struct:registration	file:
+u_name	proj2/server.c	/^	char u_name[100];$/;"	m	struct:profile	file:
+upper	matrix/upper.c	/^void upper(int r,int c,int(*a)[c])$/;"	f
+uptolow	function.c	/^int uptolow(char k)$/;"	f
+uptolow	function.s	/^uptolow:$/;"	l
+uptolow	uptolow.c	/^int uptolow(char k)$/;"	f
+uptolow	uptolow.s	/^uptolow:$/;"	l
+userid	proj2/client.c	/^	char userid[8];$/;"	m	struct:login	file:
+x	2.c	/^int x=10;$/;"	v
+x	extern/k.c	/^int x=5;$/;"	v
+year	proj2/client.c	/^	unsigned short int year;$/;"	m	struct:dob	file:
+year	proj2/server.c	/^	unsigned short int year;$/;"	m	struct:dob	file:
+z	systemprogramming/exec/test.c	/^static int z=20;$/;"	v	file:
